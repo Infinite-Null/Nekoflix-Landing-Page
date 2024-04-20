@@ -15,7 +15,7 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                     target="_blank"  rel="noreferrer"
-                    href="https://github.com/Infinite-Null/NekoFlix/releases/download/v1/NekoFlix.apk"
+                    href="https://github.com/Infinite-Null/NekoFlix/releases/download/v2/Nekoflix_v2.apk"
                     className="btn btn-custom btn-lg page-scroll"
                 >
                   Download Now

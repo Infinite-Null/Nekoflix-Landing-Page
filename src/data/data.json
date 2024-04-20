@@ -4,35 +4,35 @@
     "paragraph": "Escape to the world of endless anime adventures with Nekoflix - your ultimate destination for uninterrupted anime streaming"
   },
   "About": {
-    "paragraph": "Introducing Nekoflix: Your free, interruption-free gateway to the captivating world of anime. With Nekoflix, immerse yourself in a vast library of beloved classics and exciting new releases, all within a clean and captivating UI. Say goodbye to interruptions as you embark on an anime adventure like no other. Explore, discover, and indulge in your favorite series with ease, all thanks to Nekoflix's user-friendly interface. Join the community and experience the magic of Nekoflix today!",
+    "paragraph": "Introducing Nekoflix, your all-in-one destination for anime and manga enthusiasts! With Nekoflix, users can seamlessly stream their favorite anime and dive into captivating manga series, all without interruptions and completely free of charge. Our sleek and user-friendly interface ensures a delightful experience ",
     "Why": [
-      "Streaming Support ",
+      "Manga",
+      "Anime",
       "Clean UI",
-      "Open Source",
       "No Ads"
     ],
     "Why2": [
       "No Subscriptions ",
       "Customize UI",
-      "High-Quality Streaming",
-      "Vast Anime Library"
+      "High-Quality",
+      "Vast Anime and Manga Library"
     ]
   },
   "Gallery": [
     {
-      "title": "Home",
-      "largeImage": "img/portfolio/Home.jpeg",
-      "smallImage": "img/portfolio/Home.jpeg"
+      "title": "Anime",
+      "largeImage": "img/portfolio/Anime.jpeg",
+      "smallImage": "img/portfolio/Anime.jpeg"
     },
     {
-      "title": "Discover",
-      "largeImage": "img/portfolio/Discover.jpeg",
-      "smallImage": "img/portfolio/Discover.jpeg"
+      "title": "Manga",
+      "largeImage": "img/portfolio/Manga.jpeg",
+      "smallImage": "img/portfolio/Manga.jpeg"
     },
     {
-      "title": "Player",
-      "largeImage": "img/portfolio/Player.jpeg",
-      "smallImage": "img/portfolio/Player.jpeg"
+      "title": "Library",
+      "largeImage": "img/portfolio/Library.jpeg",
+      "smallImage": "img/portfolio/Library.jpeg"
     }
   ],
   "Features": [
